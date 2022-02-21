@@ -1,0 +1,18 @@
+theme: []
+
+disableKinds:
+- taxonomy
+- taxonomyTerm
+- sitemap
+
+outputs:
+  home: [HTML]
+
+minify:
+  minifyOutput: true
+  tdewolff:
+    html:
+      keepWhitespace: false
+
+params:
+  site: https://docs.google.com/spreadsheets/d/e/2PACX-1vTXSrgnjQo0-LTvvePptW4iW11-2wSJbn--MDp0YJ8Bu2cx7Q3F4EWGA6ynqZz3kv6h9j_ydBv71k2V/pub?gid=580506259&single=true&output=tsv
