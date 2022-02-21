@@ -1,0 +1,3 @@
+[submodule "themes/gss-hugo"]
+	path = themes/gss-hugo
+	url = https://gitlab.com/lorensansol/gss-hugo.git
